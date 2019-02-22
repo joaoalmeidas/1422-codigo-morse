@@ -7,3 +7,5 @@ de um ponto ou traço. Em um sistema orientado a som, um espaço é indicado por
 Elabore um aplicativo que lê uma frase em inglês e a codifica em código Morse. Elabore também um aplicativo que lê uma frase em
 código Morse e a converte no equivalente em inglês. Utilize um espaço em branco entre cada letra codificada em Morse e três espaços em
 branco entre cada palavra codificada em Morse.
+
+![1.PNG](1.PNG)
